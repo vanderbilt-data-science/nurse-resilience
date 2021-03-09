@@ -1,5 +1,6 @@
-# repo-template-python
-This is a template repository for data science projects done in Python.
+# Nurse Resilience
+
+This project examines burnout and resiliency in nurses, anesthesiologists (national data sets) and advance practice nurses (VUMC wide data set) and has over 6,000 respondents. 
 
 ### Prerequisites
 To most easily run this code out of the box, the following packages must be installed:
@@ -27,7 +28,9 @@ Provide an overview of the goals and deliverables of the project. Mention any re
 
 # Background  
 
-Provide a broad overview of the purpose of the project.
+We created (and have since validated) the Self Identify Burn Out survey (SIBO) that allowed us to categorize respondents as currently burnout out, never burned out or formerly burned out. Burnout has never been examined in this way before our projects. Identification of those who have completed this  journey through an episode of burnout and are still working within the healthcare, is critical in understanding resiliency.  
+We wanted to identify actionable items, things that contributed to resiliency that organizations as well as individuals could do to contribute to a work environment that nurtures resiliency. Only because we could not locate an instrument that was already validated, we created and have tested our Social Support and Personal Coping survey  (SSPC) to identify practices that contribute to resiliency. We are currently working on validating this instrument. Through this work we have identified specific types of support and personal coping practices that do contribute to resiliency. However we have a large amount of free text responses to our hobby data information. We have found specific types of hobbies are very beneficial from the checklist in our survey, but do  not know if the free text “other” hobbies belong into the categories the team has previously created or if there exists a new category.
+We are seeking support in using natural language or word stemming analysis to assist us in the validation. The 6,000 respondents we currently have collects are all pre-covid, we are currently gathering covid data that we could create a second analysis for later this summer. We anticipate that the hobbies have changed due to covid, for example perhaps the movie goers are now hiking.
 
 # Data
 
