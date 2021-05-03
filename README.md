@@ -24,12 +24,13 @@ This is easiest to achieve through first installing an Anaconda distribution, wh
 
 # Goal
 
-Provide an overview of the goals and deliverables of the project. Mention any relevant details or issues. 
+1. Explore the possible categories of hobbies from free text responses using NLP and possibly embeddings to determine common groupings
+2. Develop predictive modeling approach to determine burnout (high/med/low or currently burned out/never burned out/formerly burned out or binary)
 
 # Background  
 
 We created (and have since validated) the Self Identify Burn Out survey (SIBO) that allowed us to categorize respondents as currently burnout out, never burned out or formerly burned out. Burnout has never been examined in this way before our projects. Identification of those who have completed this  journey through an episode of burnout and are still working within the healthcare, is critical in understanding resiliency.  
-We wanted to identify actionable items, things that contributed to resiliency that organizations as well as individuals could do to contribute to a work environment that nurtures resiliency. Only because we could not locate an instrument that was already validated, we created and have tested our Social Support and Personal Coping survey  (SSPC) to identify practices that contribute to resiliency. We are currently working on validating this instrument. Through this work we have identified specific types of support and personal coping practices that do contribute to resiliency. However we have a large amount of free text responses to our hobby data information. We have found specific types of hobbies are very beneficial from the checklist in our survey, but do  not know if the free text “other” hobbies belong into the categories the team has previously created or if there exists a new category.
+We wanted to identify actionable items, things that contributed to resiliency that organizations as well as individuals could do to contribute to a work environment that nurtures resiliency. Only because we could not locate an instrument that was already validated, we created and have tested our Social Support and Personal Coping survey (SSPC) to identify practices that contribute to resiliency. We are currently working on validating this instrument. Through this work we have identified specific types of support and personal coping practices that do contribute to resiliency. However we have a large amount of free text responses to our hobby data information. We have found specific types of hobbies are very beneficial from the checklist in our survey, but do  not know if the free text “other” hobbies belong into the categories the team has previously created or if there exists a new category.
 We are seeking support in using natural language or word stemming analysis to assist us in the validation. The 6,000 respondents we currently have collects are all pre-covid, we are currently gathering covid data that we could create a second analysis for later this summer. We anticipate that the hobbies have changed due to covid, for example perhaps the movie goers are now hiking.
 
 # Data
@@ -50,7 +51,7 @@ Clearly identify each of the response variables of interest.  Any additional des
 
 # Timeline
 
-Outline the desired timeline of the project and any explicit deadlines.
+June 7,2021 - August 13, 2021 (Data Science for Social Good Project)
 
 # Repo Structure 
 
